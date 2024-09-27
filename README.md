@@ -16,6 +16,11 @@ npx expo start
 - (+) 버튼을 눌러서 할일 추가하기
 - 등록된 할일 전체 보여주기
 
+## 앞으로 추가할 기능
+- 할일 체크(v) 하기
+- 날짜를 클릭해서 할일 추가하기
+- 다른 탭 구현
+
 ## 구현화면
 https://github.com/user-attachments/assets/5a1f41b0-f5ad-489b-9b18-e7b06ecc1e8b
 
